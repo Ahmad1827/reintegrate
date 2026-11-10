@@ -1,0 +1,2 @@
+# Optional: webcam hand control. Needs Python 3.9 - 3.12.
+mediapipe==0.10.21
